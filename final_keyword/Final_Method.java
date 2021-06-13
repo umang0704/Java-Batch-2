@@ -18,7 +18,7 @@ class B extends A {
 public class Final_Method {
 
     public static void main(String[] args) {
-        B obj = new B();
+        B1 obj = new B1();
         obj.hello();
     }
 }

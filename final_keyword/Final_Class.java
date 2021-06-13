@@ -1,7 +1,7 @@
  
 package final_keyword;
 
-final class B {
+final class B1 {
 
     final int a;
     final static int b;
@@ -14,7 +14,7 @@ final class B {
         a = 10;
     }
 
-    B() {
+    B1() {
 
     }
 
