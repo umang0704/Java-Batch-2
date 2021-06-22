@@ -93,6 +93,10 @@ public class HashTable1 {
         
         //extra operation
         System.out.println(o.toString());
+//        m1.put(null,1);
+//        for(int i : new int[]{1,2,3,4,5})
+//            m1.put(i,null);
+//        System.out.println(m1);
     }
             
             
